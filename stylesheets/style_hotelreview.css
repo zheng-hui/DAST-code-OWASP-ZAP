@@ -1,0 +1,74 @@
+.navbar-custom {
+    background-color: #AC3B61;    
+}
+
+body {
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+    font-family: "New Times Roman";
+    
+}
+table    {
+    background-color: #fff3f9;
+    margin:auto;
+    font-family: "New Times Roman";
+    font-size: 15px; 
+    line-height: 24px;
+    font-weight: bold;
+    color: black;
+    padding:10px;
+    border: 5px;
+    border-radius: 25px;
+}
+
+form    {
+    background-color: #fff3f9;
+    margin:auto;
+    width:550px;
+    font-family: "New Times Roman";
+    font-size: 15px; 
+    line-height: 24px;
+    font-weight: bold;
+    color: black;
+    padding:10px;
+    border: 5px;
+    border-radius: 25px;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "New Times Roman";
+}
+
+input    {
+    width:375px;
+    display:block;
+    border: 1px solid black;
+    height: 25px;
+}
+#review {
+    resize: none;
+    width:375px;
+    height:160px;
+    outline: none;
+    font-size: 14px;
+    border-color: rgb(255,192,225);
+    font-family: "New Times Roman";
+    resize: none;
+}
+
+#submit {
+    width:100px;
+    height:25px;
+    border: none;
+    color: black;
+    background: #ff8dc9;
+    font-family: "New Times Roman";
+    font-size: 15px; 
+    font-weight: bold;
+    border-radius: 25px;
+}
+
+h4 {
+    font-family: "New Times Roman";
+}
